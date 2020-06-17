@@ -1,0 +1,80 @@
+{
+	"_id": "5edff64fd44b7d4829bd4c8c",
+	"company": {
+		"companyId": "HUN",
+		"fantasyName": "Hunch",
+		"corporateName": "Hunch",
+		"cnpj": "01885939000143"
+	},
+	"customer": {
+		"_id": "5eb48907614a32cf0de64a01",
+		"name": "Usuario Teste",
+		"email": "teste@teste.com",
+		"cpf": "00972625100",
+		"rg": "1220229",
+		"profilePic": ""
+	},
+	"seller": {
+		"sellerId": "HUN-BUF",
+		"tradeName": "HuncH - Buffet Digital",
+		"corporateName": "HuncH - Buffet Digital",
+		"document": "24.059.502/0001-56",
+		"phone": "(11) 98213-1379"
+	},
+	"saleCode": "HUN-5eb48907614a32cf0de64a01-68",
+	"date": "2020-06-09T20:51:27.94Z",
+	"products": [
+		{
+			"_id": "5eac8f92ab6bf100347e4b53",
+			"name": "Buffet Livre",
+			"quantity": 1,
+			"unitValue": 0,
+			"subtotal": 0,
+			"deliveryTax": 0,
+			"observation": "",
+			"category": "",
+			"images": [
+				"2020-05-01-21-07-29-buffet-para-restaurante-2.jpg"
+			],
+			"brandName": "",
+			"size": "",
+			"color": "",
+			"subscription": false,
+			"subscriptionPrice": 0,
+			"sections": null
+		}
+	],
+	"total": 0,
+	"sellTax": 0,
+	"calculatedTax": 0,
+	"address": {
+		"city": "Valparaíso de Goiás",
+		"state": "GO",
+		"postalCode": "72876024",
+		"addressLine1": "Quadra Quadra 8",
+		"addressLine2": "342",
+		"addressLine3": "Valparaiso I - Etapa A"
+	},
+	"payment": {
+		"paymentId": "",
+		"paymentMethod": "CREDIT",
+		"installments": 1,
+		"cardEncrypted": "DV9eRP9NF2ejGDjI9dGCs5ukDOChtyFT5mCHTWn7dkZIYXpV6MsWH/3nZ8LchJxohY6vvzEvhx2qD3Lqm2rsJp16QHDecJmDT9QOvKpLVIIDFcQe1uveMutiK+A26QX+Ss/VCzBWxxtXRpZ2MHi+sNcGpR9oHIvxmydqq7Sn/c8sy8Tvqe1FMdZHYjNdUFJPI6FrmJzcYGjdzVGP7rwyGp2b0X6i+KzNJ28lDLhDWvfK7+C0KTAK3PEMW05X2whZHR7t4GlCi0xG+no3awukj8jEPLk/UxWn0HkSkzCnwyPsSC6OcZjrOvj6T+DEWw5aR942bJd1bN/ICThxsEUamg==",
+		"customerCard": {},
+		"authorizationCode": "",
+		"status": "",
+		"returnCode": "",
+		"returnMessage": "",
+		"paybackAmount": 0,
+		"cashAmount": 0
+	},
+	"status": "PENDING",
+	"message": "Aguardando Aprovação do Pagamento!",
+	"tryCount": 0,
+	"parentID": "",
+	"consumedValue": 0,
+	"subscription": true,
+	"withDrawPlace": false,
+	"freightValue": 0
+}
+

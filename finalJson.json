@@ -1,0 +1,59 @@
+{
+    "api_key": "ak_test_aznyXRpuJNpLBn240JgclsXiP1b3rQ",
+    "amount": 21000,
+    "card_number": "4111111111111111",
+    "card_cvv": "123",
+    "card_expiration_date": "0922",
+    "card_holder_name": "Marcelo o dias",
+    "customer": {
+      "external_id": "#3311",
+      "name": "Marcelo o dias",
+      "type": "individual",
+      "country": "br",
+      "email": "marcelo@diastecnologia.com.br",
+      "documents": [
+        {
+          "type": "cpf",
+          "number": "00972625100"
+        }
+      ],
+      "phone_numbers": ["+5511982131379"],
+      "birthday": "1986-02-09"
+    },
+    "billing": {
+      "name": "Marcelo de oliveira Dias",
+      "address": {
+        "country": "br",
+        "state": "ms",
+        "city": "Dourados",
+        "neighborhood": "Jardim caramuru",
+        "street": "Rua Hildabergo duarte",
+        "street_number": "842",
+        "zipcode": "79806020"
+      }
+    },
+    "shipping": {
+      "name": "Marcelo Dias",
+      "fee": 1000,
+      "delivery_date": "2020-06-10",
+      "expedited": true,
+      "address": {
+        "country": "br",
+        "state": "ms",
+        "city": "Dourados",
+        "neighborhood": "Jardim caramuru",
+        "street": "Rua Hildabergo duarte",
+        "street_number": "842",
+        "zipcode": "79806020"
+      }
+    },
+    "items": [
+      {
+        "id": "r123",
+        "title": "Red pill",
+        "unit_price": 10000,
+        "quantity": 1,
+        "tangible": true
+      }
+    ]
+}
